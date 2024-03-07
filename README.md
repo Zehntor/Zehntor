@@ -1,5 +1,5 @@
 ### Language skills
-![Languages](https://skillicons.dev/icons?i=js,nodejs,ts,java,php&perline=14 "Languages")  
+![Languages](https://skillicons.dev/icons?i=js,nodejs,ts,java,php,md&perline=14 "Languages")  
 
 ### Backend skills
 ![Backend skills](https://skillicons.dev/icons?i=mysql,dynamodb "Backend skills")
@@ -16,4 +16,4 @@
 ### Misc
 ![Misc](https://skillicons.dev/icons?i=aws,apple,linux,ubuntu,docker,grafana,jest,md,regex&perline=14 "Misc")
 
-[//]: # (![Skills]&#40;https://skillicons.dev/icons?i=js,nodejs,ts,java,php,mysql,bash,htmx,css,react,bootstrap,aws,webstorm,idea,phpstorm,sublime,apple,linux,ubuntu,git,bitbucket,github,gitlab,docker,grafana,jest,md,regex&perline=14 "Skills"&#41;)
+[//]: # (![Skills]&#40;https://skillicons.dev/icons?i=js,nodejs,ts,java,php,mysql,bash,htmx,css,react,bootstrap,aws,webstorm,idea,phpstorm,sublime,apple,linux,ubuntu,git,bitbucket,github,gitlab,docker,grafana,jest,regex&perline=14 "Skills"&#41;)
