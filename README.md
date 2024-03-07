@@ -1,3 +1,7 @@
+### Github stats
+![Zehntor's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehntor&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehntor&theme=gruvbox&layout=compact)  
+
 ### Language skills
 ![Languages](https://skillicons.dev/icons?i=js,nodejs,ts,java,php,md&perline=14 "Languages")  
 
