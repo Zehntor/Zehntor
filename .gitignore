@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+.idea/
+.vscode/**/*.*
+.nyc_output
+/pact
+.aws-sam
+coverage
+/yarn-error.log
+tests/performance/k6-results.json
+tests/performance/config/seed.sql
