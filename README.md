@@ -2,7 +2,7 @@
 ![Languages](https://skillicons.dev/icons?i=js,nodejs,ts,java,php&perline=14 "Languages")  
 
 ### Backend skills
-![Backend skills](https://skillicons.dev/icons?i=mysql "Backend skills")
+![Backend skills](https://skillicons.dev/icons?i=mysql,dynamodb "Backend skills")
 
 ### Frontend skills
 ![Frontend skills](https://skillicons.dev/icons?i=htmx,css,react,bootstrap&perline=14 "Frontend skills")
